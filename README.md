@@ -2,11 +2,11 @@
 It contains all the Python Programs, whether it's a GUI, basic, Data Structures, etc.
 
 ## How to Conntribute:
--Step 1: Fork this Repo. (This will create a separate clonned repo of this one for you)
--Step 2: Make the Changes. Keep in mind the changes should be according to the contributing guidelines.
--Step 3: Commit the changes.
--Step 4: Click on Pull Request.
-- Viola. You just made your first Pull Request.
+- Step 1: Fork this Repo. (This will create a separate clonned repo of this one for you)
+- Step 2: Make the Changes. Keep in mind the changes should be according to the contributing guidelines.
+- Step 3: Commit the changes.
+- Step 4: Click on Pull Request.
+#### Viola. You just made your first Pull Request.
 
 ## Contributors Wall:
 
