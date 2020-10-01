@@ -3,6 +3,9 @@ It contains all the Python Programs, whether it's a GUI, basic, Data Structures,
 
 ## Contributors Wall:
 
+![img](https://avatars0.githubusercontent.com/u/52314477?s=400&u=1887ecc3afa1e867af50336a3af7ed56b21dc604&v=4)
+
+
 https://avatars0.githubusercontent.com/u/52314477?s=400&u=1887ecc3afa1e867af50336a3af7ed56b21dc604&v=4
 
 https://avatars3.githubusercontent.com/u/38143013?s=400&u=28405ea45018cee30268bd61408515033741e87e&v=4
