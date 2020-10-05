@@ -83,5 +83,15 @@ All *Contributions* of the *Contributors* can be found in the [__Contributions__
               </sub>
           </a>
       </td>
+    <td align="center">
+          <a href="https://github.com/sarthak1905">
+              <img src="https://avatars0.githubusercontent.com/u/61883822?s=400&v=4" width="100px;" alt="sarthaksaxena"><br />
+              <sub>
+                  <b>
+                      <strong>Sarthak Saxena</strong>
+                  </b>
+              </sub>
+          </a>
+      </td>
   </tr>
 </table>
