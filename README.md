@@ -95,5 +95,15 @@ All *Contributions* of the *Contributors* can be found in the [__Contributions__
               </sub>
           </a>
       </td>
+    <td align="center">
+            <a href="https://github.com/Raghavarora27">
+                <img src="https://avatars2.githubusercontent.com/u/66276244?s=460&u=16746f7b8f2f8c3db7f803b25269078ef34d2e4e&v=4" width="100px;" alt="RaghavArora"><br />
+                <sub>
+                <b>
+                    <strong>Raghav Arora</strong>
+                </b>
+            </sub>
+            </a>
+        </td>
   </tr>
 </table>
