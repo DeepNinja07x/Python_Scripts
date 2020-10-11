@@ -116,7 +116,7 @@ All *Contributions* of the *Contributors* can be found in the [__Contributions__
           </a>
       </td>
     <td align="center">
-          <a href="https://github.com/TheFenrisLycaon">
+          <a href="https://github.com/someshnarwade">
               <img src="https://avatars0.githubusercontent.com/u/54172306?s=460&u=b4834344142abbc0f0b742dd579cc9054c112d8c&v=4" width="100px;" alt="rishabhanand"><br />
               <sub>
                   <b>
