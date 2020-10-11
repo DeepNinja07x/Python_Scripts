@@ -1,0 +1,30 @@
+import random
+
+
+class Die(object):
+    def __init__(self):
+        self.sides = 6
+    """because a dice contains at least 4 planes.
+    So use this method to give it a judgement when you need
+    to change the instance attributes.
+    """
+
+    def set_sides(self, sides_change):
+        if sides_change >= 4:
+            if sides_change != 6:
+                print("change sides from 6 to ", sides_change, " !")
+            else:
+                print("sides set to 6")
+            self.sides = sides_change
+        else:
+            print("wrong sides! sides set to 6")
+
+    def roll(self):
+        return random.randint(1, self.sides)
+
+
+d = Die()
+d1 = Die()
+d.set_sides(4)
+d1.set_sides(4)
+print(d.roll(), d1.roll())
