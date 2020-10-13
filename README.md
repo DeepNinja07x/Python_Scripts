@@ -130,7 +130,7 @@ All *Contributions* of the *Contributors* can be found in the [__Contributions__
               <img src="https://avatars3.githubusercontent.com/u/37812370?s=400&u=a3e9ead47d15081bcb783a8e8fc02b70bfa4add8&v=4" width="100px;" alt="someshnarwade"><br />
               <sub>
                   <b>
-                      <strong>Somesh Narwade</strong>
+                      <strong>Bruno Pastre</strong>
                   </b>
               </sub>
           </a>
