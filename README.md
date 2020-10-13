@@ -137,7 +137,7 @@ All *Contributions* of the *Contributors* can be found in the [__Contributions__
       </td>
     <td align="center">
           <a href="https://github.com/MasterMeet">
-              <img src="https://avatars0.githubusercontent.com/u/6251198?s=400&u=aaa4f9c03f6527b760212ab2784b9be8a2ca3990&v=4" width="100px;" alt="pastre"><br />
+              <img src="https://avatars0.githubusercontent.com/u/6251198?s=400&u=aaa4f9c03f6527b760212ab2784b9be8a2ca3990&v=4" width="100px;" alt="MasterMeet"><br />
               <sub>
                   <b>
                       <strong>MasterMeet</strong>
