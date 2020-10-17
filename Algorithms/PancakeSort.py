@@ -6,14 +6,14 @@ def pancakeFlip(arr, k):
 	"""
 	return arr[:k + 1][::-1] + arr[k + 1:]
 
-def reverse_pancake_sort(arr):
+def pancake_sort(arr):
 	"""Returns the array arr reverse sorted using the pancake sort algorithm
 
 	>>> import random
 	>>> unordered = [i for i in range(5)]
 	>>> random.shuffle(unordered)
-	>>> reverse_pancake_sort(unordered)
-	[4, 3, 2, 1, 0]
+	>>> pancake_sort(unordered)
+	[0, 1, 2, 3, 4]
 	"""
 
 	if len(arr) <= 1: return arr
@@ -24,4 +24,4 @@ def reverse_pancake_sort(arr):
 
 	arr = pancakeFlip(arr, len(arr) - 1)
 
-	return [arr[-1]] + reverse_pancake_sort(arr[:-1])
+	return pancake_sort(arr[:-1]) + [arr[-1]] 
