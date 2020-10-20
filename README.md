@@ -146,4 +146,16 @@ All *Contributions* of the *Contributors* can be found in the [__Contributions__
           </a>
       </td>
   </tr>
+  <tr>
+    <td align="center">
+          <a href="https://github.com/pedrosv20">
+              <img src="https://avatars1.githubusercontent.com/u/14371245?s=400&u=16b13f4b1ee6692260713a859af340eb1fc05518&v=4" width="100px;" alt="pedrosv20"><br />
+              <sub>
+                  <b>
+                      <strong>Pedro Vargas</strong>
+                  </b>
+              </sub>
+          </a>
+      </td>
+  </tr>
 </table>
