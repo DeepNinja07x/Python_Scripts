@@ -6,7 +6,7 @@ It contains all the Python Programs, whether it's a GUI, basic, Data Structures,
 - Data Structures
 - Automation
 - Basic Scripts
-- GUI
+- GUI based program
 
 This project is for newbies and rookies; who are new to the idea of Open Source contributions but want to be an Open Source Contributor, to advance coder; who have prolific knowledge in __Open Source Contribution__. If your PR get merged for **Hacktoberfest-21**, your PR will get "**hacktoberfest-accepeted**" label.
 
