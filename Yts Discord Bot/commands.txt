@@ -1,0 +1,6 @@
+Command		Description									Example
+
+search		searches for the movie						$search Avengers
+ping		responds with pong followed by latency		$ping
+watching	sets bot status to the given movie			$watching Avengers
+clear		delete messages on channel					$clear
