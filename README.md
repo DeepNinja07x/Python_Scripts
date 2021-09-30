@@ -1,5 +1,5 @@
 # Python_Scripts
-
+----------------------------------
 It contains all the Python Programs, whether it's a GUI, basic, Data Structures, etc. It's a collection of some great **Python** scripts from basic to advance levels for automating some monotonous tasks.This project contains 5 folders:
 
 - Algorithms
@@ -11,6 +11,7 @@ It contains all the Python Programs, whether it's a GUI, basic, Data Structures,
 This project is for newbies and rookies; who are new to the idea of Open Source contributions but want to be an Open Source Contributor, to advance coder; who have prolific knowledge in __Open Source Contribution__. If your PR get merged for **Hacktoberfest-21**, your PR will get "**hacktoberfest-accepeted**" label.
 
 # How to Contribute:
+--------------------------------
 All contributions are welcomed. Follow these __Guidelines__:
 - Step 1: Fork this Repo. (This will create a separate clonned repo of this one for you)
 - Step 2: Make the Changes. Keep in mind the changes should be according to the contributing guidelines.
