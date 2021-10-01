@@ -272,4 +272,17 @@ All *Contributions* of the *Contributors* can be found in the [__Contributions__
           </a>
       </td>
   </tr>
+  <tr>
+  <td align="center">
+          <a href="https://github.com/rustzz-27/">
+              <img src="https://avatars.githubusercontent.com/u/53906186?v=4" width="100px;" alt="rustzz-27"><br />
+              <sub>
+                  <b>
+                      <strong>Reshu Agarwal</strong>
+                  </b>
+              </sub>
+          </a>
+      </td>
+    
+  </tr>
 </table>
