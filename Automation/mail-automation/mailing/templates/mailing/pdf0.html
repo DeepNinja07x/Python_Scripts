@@ -1,0 +1,36 @@
+{% load static %}
+<!DOCTYPE html>
+
+<head>
+    <link rel="icon" type="image/jpeg" href="{% static 'mailing/favicon.ico' %}">
+    <title>Mail Automation</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<html lang="en">
+
+<body id="whole" class="bg-secondary">
+    {% block content %}
+    <div class="bg-secondary text-white">
+        <div class="px-3 py-3">
+            <h1 class="text-white">Column Names:</h1>
+            <h2>{{ Columns }}</h2>
+            <h1>Please Fill the below Fields:</h1>
+            <form action="startingmails" enctype="multipart/form-data" name="startingmails" method="post">
+                {% csrf_token %}
+                <div class="form-group">
+                    <h3> Enter column name</h3>
+                    <input type="text" name="col-nam" required class="form-control">
+                </div>
+                <div class="form-group">
+                    <input type="submit" class="btn btn-primary" id="going" value="Start Mails">
+                </div>
+                <div class="form-group">
+                    <h6>Limit:90 Mails at a time</h6>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+{% endblock %}

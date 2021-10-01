@@ -1,0 +1,7 @@
+Django==3.2.5
+email-forwarder==0.1.1
+emails==0.6
+numpy==1.19.5.7
+pandas==1.1.5
+pdf-mail==3.0.0
+pdf2image==1.16.0
