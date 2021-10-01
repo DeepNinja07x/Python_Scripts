@@ -32,7 +32,7 @@ https://share.streamlit.io/indrap24/manual-parameter-tuner/main/app.py
   python3 -m venv env
   source env/bin/activate
   ```
-  Install the python dependencies from requirements.txt:
+   - Install the python dependencies from requirements.txt:
     ```bash
     pip install -r requirements.txt
      ```
