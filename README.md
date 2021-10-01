@@ -158,5 +158,55 @@ All *Contributions* of the *Contributors* can be found in the [__Contributions__
               </sub>
           </a>
       </td>
+    <td align="center">
+          <a href="https://github.com/amaanalam0707">
+              <img src="https://avatars.githubusercontent.com/u/69518300?v=4" width="100px;" alt="amaanalam0707"><br />
+              <sub>
+                  <b>
+                      <strong>Amaan Alam</strong>
+                  </b>
+              </sub>
+          </a>
+      </td>
+    <td align="center">
+          <a href="https://github.com/Shuchi2211">
+              <img src="https://avatars.githubusercontent.com/u/69510684?v=4" width="100px;" alt="Shuchi2211"><br />
+              <sub>
+                  <b>
+                      <strong>Shuchismita Mukhopadhyay</strong>
+                  </b>
+              </sub>
+          </a>
+      </td>
+    <td align="center">
+          <a href="https://github.com/vidhichadha2507">
+              <img src="https://avatars.githubusercontent.com/u/74606188?v=4" width="100px;" alt="vidhichadha2507"><br />
+              <sub>
+                  <b>
+                      <strong>Vidhi Chadha</strong>
+                  </b>
+              </sub>
+          </a>
+      </td>
+    <td align="center">
+          <a href="https://github.com/chandankumar1307">
+              <img src="https://avatars.githubusercontent.com/u/70543351?v=4" width="100px;" alt="chandankumar1307"><br />
+              <sub>
+                  <b>
+                      <strong>Chandan Kumar Saha</strong>
+                  </b>
+              </sub>
+          </a>
+      </td>
+    <td align="center">
+          <a href="https://github.com/ervaibhavkumar">
+              <img src="https://avatars.githubusercontent.com/u/28685411?v=4" width="100px;" alt="ervaibhavkumar"><br />
+              <sub>
+                  <b>
+                      <strong>Vaibhav</strong>
+                  </b>
+              </sub>
+          </a>
+      </td>
   </tr>
 </table>
