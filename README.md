@@ -4,11 +4,11 @@ It contains all the Python Programs, whether it's a GUI, basic, Data Structures,
 
 - Algorithms
 - Data Structures
-- Automation
+- Automation programs
 - Basic Scripts
-- GUI based program 
+- GUI based programs 
 
-This project is for newbies and rookies; who are new to the idea of Open Source contributions but want to be an Open Source Contributor, to advance coder; who have prolific knowledge in __Open Source Contribution__. If your PR get merged for **Hacktoberfest-21**, your PR will get "**hacktoberfest-accepeted**" label.
+This project is for newbies and rookies; who are new to the idea of Open Source contributions but want to be an Open Source Contributor, to advance coder; who have prolific knowledge in __Open Source Contribution__. If your PR gets merged for **Hacktoberfest-21**, your PR will get "**hacktoberfest-accepeted**" label.
 
 # How to Contribute:
 --------------------------------
@@ -17,6 +17,7 @@ All contributions are welcomed. Follow these __Guidelines__:
 - Step 2: Make the Changes. Keep in mind the changes should be according to the contributing guidelines.
 - Step 3: Commit the changes.
 - Step 4: Click on Pull Request.
+- Step 5: If PR gets merged, edit the Readme.md file and add yourself in the **Contributors' Wall** section.
 - For more detailed steps for __How to Contribute__ or __How to Sync__, follow [__CONTRIBUTING.md__](https://github.com/DeepNinja07x/Python_Scripts/blob/master/CONTRIBUTING.md) file.
 #### Voila..... You just made your first Pull Request.
 
