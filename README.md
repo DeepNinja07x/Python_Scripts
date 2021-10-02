@@ -1,6 +1,6 @@
 # Python_Scripts
 ----------------------------------
-It contains all the Python Programs, whether it's a GUI, basic, Data Structures, etc. It's a collection of some great **Python** scripts from basic to advance levels for automating some monotonous tasks.This project contains 5 folders:
+It contains all the Python Programs and Scripts, whether it's a GUI, basic, Data Structures, or even Machine Learning Algorithms etc. It's a collection of some great **Python** scripts from basic to advance levels for automating some monotonous tasks.This project contains 5 folders:
 
 - Algorithms
 - Data Structures
