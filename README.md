@@ -283,7 +283,56 @@ All *Contributions* of the *Contributors* can be found in the [__Contributions__
                   </b>
               </sub>
           </a>
+      </td>  
+     <td align="center">
+          <a href="https://github.com/IndraP24">
+              <img src="https://avatars.githubusercontent.com/u/64627762?v=4" width="100px;" alt="IndraP24"><br />
+              <sub>
+                  <b>
+                      <strong>Indrashis Paul</strong>
+                  </b>
+              </sub>
+          </a>
+      </td>  
+    <td align="center">
+          <a href="https://github.com/ShreyaDayma-cse">
+              <img src="https://avatars.githubusercontent.com/u/90904747?v=4" width="100px;" alt="ShreyaDayma-cse"><br />
+              <sub>
+                  <b>
+                      <strong>Shreya Dayma</strong>
+                  </b>
+              </sub>
+          </a>
+      </td>  
+    <td align="center">
+          <a href="https://github.com/sagarparmar881">
+              <img src="https://avatars.githubusercontent.com/u/47896458?v=4" width="100px;" alt="sagarparmar881"><br />
+              <sub>
+                  <b>
+                      <strong>Sagar Parmar</strong>
+                  </b>
+              </sub>
+          </a>
       </td>
-    
+    <td align="center">
+          <a href="https://github.com/coodos">
+              <img src="https://avatars.githubusercontent.com/u/69296233?v=4" width="100px;" alt="coodos"><br />
+              <sub>
+                  <b>
+                      <strong>Merul</strong>
+                  </b>
+              </sub>
+          </a>
+      </td>
+    <td align="center">
+          <a href="https://github.com/Shivang-Agarwal11">
+              <img src="https://avatars.githubusercontent.com/u/65328598?v=4" width="100px;" alt="Shivang-Agarwal11"><br />
+              <sub>
+                  <b>
+                      <strong>Shivang Agarwal</strong>
+                  </b>
+              </sub>
+          </a>
+      </td>
   </tr>
 </table>
