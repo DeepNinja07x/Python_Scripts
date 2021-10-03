@@ -16,13 +16,6 @@ import operator
 
 engine = pyttsx3.init()
 
-def sendmail():
-    recivers = ['avyay.jain2001@gmail.com','rajatthakurk@gmail.com','aryanverma2612001@gmail.com']
-    a = smtplib.SMTP('smtp.gmail.com',587)
-    a.starttls()
-    a.login('avyay.jain2001@gmail.com','PintooAvyay_72')
-    a.sendmail('avyay.jain2001@gmail.com',recivers,'test message')
-    a.quit()
 
 def search():
     speech("enter the topic you want to search on wikipedia  ")
@@ -230,8 +223,6 @@ while True:
  elif 'tell me a joke' in speechinput:
      joke()
 
- elif 'send mail' in speechinput:
-     sendmail()
 
  elif 'exit' in speechinput:
      speech("goodbye sir going off duty")
@@ -247,8 +238,6 @@ while True:
  elif 'what is your name' in speechinput:
      speech('my name is jarvis your personal voice assistant')
 
- elif'who made you' in speechinput:
-     speech('i was made by avyay jain')
     
  elif 'alarm' in speechinput:
     speech("say set alarm for 5:30 am ")
