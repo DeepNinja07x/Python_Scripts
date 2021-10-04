@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Banglore Home Price Prediction</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="./static/app.js"></script>
+	<link rel="stylesheet" href="./static/app.css">
+</head>
+<body>
+<div class="img"></div>
+<form class="form" action="/predict_house_price/">
+	<h2>Area (Square Feet)</h2>
+    <input class="area"  type="text" id="uiSqft" class="floatLabel" name="total_sqft" value="1000">
+	<h2>BHK</h2>
+	<div class="switch-field">
+		<input type="radio" id="radio-bhk-1" name="BHK" value="1"/>
+		<label for="radio-bhk-1">1</label>
+		<input type="radio" id="radio-bhk-2" name="BHK" value="2" checked/>
+		<label for="radio-bhk-2">2</label>
+		<input type="radio" id="radio-bhk-3" name="BHK" value="3"/>
+		<label for="radio-bhk-3">3</label>
+		<input type="radio" id="radio-bhk-4" name="BHK" value="4"/>
+		<label for="radio-bhk-4">4</label>
+		<input type="radio" id="radio-bhk-5" name="BHK" value="5"/>
+		<label for="radio-bhk-5">5</label>
+	</div>
+	<h2>Bath</h2>
+	<div class="switch-field">
+		<input type="radio" id="radio-bath-1" name="Bath" value="1"/>
+		<label for="radio-bath-1">1</label>
+		<input type="radio" id="radio-bath-2" name="Bath" value="2" checked/>
+		<label for="radio-bath-2">2</label>
+		<input type="radio" id="radio-bath-3" name="Bath" value="3"/>
+		<label for="radio-bath-3">3</label>
+		<input type="radio" id="radio-bath-4" name="Bath" value="4"/>
+		<label for="radio-bath-4">4</label>
+		<input type="radio" id="radio-bath-5" name="Bath" value="5"/>
+		<label for="radio-bath-5">5</label>
+	</div>
+		<h2>Location</h2>
+	<div>
+  <select class="location" name="location" id="Locations">
+    <option value="" disabled="disabled" selected="selected">Choose a Location</option>
+		{% for loc in response %}
+		<option value="{{ loc }}">{{ loc }}</option>
+		{% endfor %}
+  </select>
+</div>
+	<button class="submit" type="button">Estimate Price</button>
+	<div id="EstimatedPrice" class="result">	<h2>{{ price }}</h2> </div>
+</body>
+</html>
