@@ -20,3 +20,7 @@ def RomanNumeralToDecimal(romanNumeral):
             sum += tallies[left]
     sum += tallies[romanNumeral[-1]]
     return sum
+romnum=input("Enter the roman number:\n")
+sum=RomanNumeralToDecimal(romnum)
+print(sum)
+#coder has not added userinput and output

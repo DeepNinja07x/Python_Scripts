@@ -12,3 +12,5 @@ for ele in range(0,n-1):
 if res == 1:
     print("JUMPING NUMBER")
 else:
+    #error issue to be raised
+    

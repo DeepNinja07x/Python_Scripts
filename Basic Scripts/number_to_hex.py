@@ -9,8 +9,6 @@ def number_to_hex(number_to_convert: int):
     print(hexadecimal)
 
 if __name__ == "__main__":
-    """
-    >>> number_to_hex(7562)
-    1D8A
-    """
-    number_to_hex(7562)
+    num= int(input("Enter number in decimal:\n"))
+    number_to_hex(num)
+ #added user input
