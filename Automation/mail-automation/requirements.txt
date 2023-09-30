@@ -1,4 +1,4 @@
-Django==3.2.15
+Django==3.2.18
 email-forwarder==0.1.1
 emails==0.6
 numpy==1.22.0
